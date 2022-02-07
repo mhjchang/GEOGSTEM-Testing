@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GEOG STEM Webpage
 
 You can use the [editor on GitHub](https://github.com/mhjchang/GEOGSTEM-Testing/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
